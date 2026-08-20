@@ -147,11 +147,12 @@ commit I authored, across every repository, public and private.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark.svg">
-  <img src="assets/commits-light.svg" alt="2,144 commits authored in the last 12 months across 53 repositories" width="100%">
+  <img src="assets/commits-light.svg" alt="2,145 commits authored in the last 12 months across 53 repositories" width="100%">
 </picture>
 
 <sub>Heaviest repositories this year: Card Knight (516), SunaBox (268), MarketPro (137),
-EventPro (152 across its check-in and forms apps), darienbathalter.com (82).</sub>
+EventPro (152), darienbathalter.com (82). Regenerate any time with
+<code>python3 tools/build_graph.py</code>.</sub>
 
 <br>
 
