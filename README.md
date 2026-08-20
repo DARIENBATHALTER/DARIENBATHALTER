@@ -154,16 +154,10 @@ everything that has to feel like a person made it.
 
 <br>
 
-### The numbers
+### The graph
 
-Most of my repositories are private, so these count what they can see.
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DARIENBATHALTER&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=08090A&title_color=3BE07E&icon_color=FF3D8B&text_color=A4AEA9&ring_color=3BE07E" alt="GitHub stats">
-  <img height="165" src="https://github-readme-streak-stats.demolab.com?user=DARIENBATHALTER&hide_border=true&background=08090A&stroke=1A1F1C&ring=3BE07E&fire=FF3D8B&currStreakLabel=3BE07E&sideLabels=A4AEA9&currStreakNum=ECEFEE&sideNums=ECEFEE&dates=6B7570" alt="Streak">
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DARIENBATHALTER&bg_color=08090A&color=ECEFEE&line=3BE07E&point=FF3D8B&area=true&area_color=3BE07E&hide_border=true&custom_title=Commits" alt="Contribution graph" width="100%">
+Almost everything I build lives in a private repository, so the public contribution graph
+reads much quieter than the work does. The snake below eats whatever GitHub will show.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DARIENBATHALTER/DARIENBATHALTER/output/github-snake-dark.svg">
