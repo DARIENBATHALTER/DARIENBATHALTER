@@ -127,21 +127,6 @@ Live and playable in the browser, every one of them.
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/marks/made-by-hand-dark.png">
-  <img src="assets/marks/made-by-hand-light.png" alt="Made by hand" height="42">
-</picture>
-
-Paintings, signs, portraits, dye. Still the part I do with a brush.
-
-<p>
-  <img src="assets/art1.jpg" height="210">
-  <img src="assets/art2.jpg" height="210">
-  <img src="assets/art3.jpg" height="210">
-</p>
-
-<br>
-
 ### What I build with
 
 <p>
@@ -154,15 +139,19 @@ everything that has to feel like a person made it.
 
 <br>
 
-### The graph
+### The real graph
 
-Almost everything I build lives in a private repository, so the public contribution graph
-reads much quieter than the work does. The snake below eats whatever GitHub will show.
+Almost everything I build lives in a private repository, so GitHub's public graph shows
+almost none of it. This one is generated from the git history on my own machine; every
+commit I authored, across every repository, public and private.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DARIENBATHALTER/DARIENBATHALTER/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/DARIENBATHALTER/DARIENBATHALTER/output/github-snake.svg" alt="Snake eating my contribution graph" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark.svg">
+  <img src="assets/commits-light.svg" alt="2,144 commits authored in the last 12 months across 53 repositories" width="100%">
 </picture>
+
+<sub>Heaviest repositories this year: Card Knight (516), SunaBox (268), MarketPro (137),
+EventPro (152 across its check-in and forms apps), darienbathalter.com (82).</sub>
 
 <br>
 
