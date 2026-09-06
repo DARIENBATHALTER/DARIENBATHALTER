@@ -25,6 +25,25 @@ the map; **[darienbathalter.com](https://darienbathalter.com)** is the whole gal
 
 <table>
 <tr>
+<td width="90" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hw68k-glove-paper.png">
+  <img src="assets/hw68k-glove-ink.png" width="56" alt="">
+</picture>
+</td>
+<td>
+
+### HandWare 68k &nbsp;·&nbsp; `new`
+
+Ask your Macintosh SE for anything. An AI-native operating environment for a 1987
+Macintosh; each screen designed by a model, proven safe, and drawn in one bit over
+Wi-Fi, on real hardware. Old dog, new tricks.
+
+[**See it run**](https://handware68k.darienbathalter.com)
+
+</td>
+</tr>
+<tr>
 <td width="90" align="center"><img src="assets/icons/sunabox.png" width="66"></td>
 <td>
 
@@ -94,10 +113,10 @@ Live and playable in the browser, every one of them.
 
 | | | |
 |:--|:--|:--|
-| <img src="assets/icons/lumiglyph.png" width="46"> | **[Lumiglyph](https://lumiglyph.quiettools.dev)**<br>A PNG codec that hides text, voice, 3D voxel meshes, and facial capture inside an ordinary picture. Lossless, in the browser. | `v1.0.0` |
-| <img src="assets/icons/lumicode.png" width="46"> | **[LumiCode](https://lumicode.quiettools.dev)**<br>Three encoders on one page; data hidden in chroma, in colour dots, or in the grain. Phone-scannable. | `v1.0.0` |
-| <img src="assets/icons/ditherglyph.png" width="46"> | **[DitherGlyph](https://ditherglyph.quiettools.dev)**<br>High-density archival encoding that lives in the dithered areas of a photograph. About 0.3 bits per pixel. | `v1.0.0` |
-| <img src="assets/icons/ditherglyph-lite.png" width="46"> | **[DitherCode](https://ditherglyph-lite.quiettools.dev)**<br>The scannable one. Chunky glyph cells a phone camera can read across a room. | `v1.0.0` |
+| <img src="assets/icons/lumiglyph.png" width="46"> | **[Lumiglyph](https://lumiglyph.quiettools.dev)**<br>Data encoded into an image's own color, with minimal loss, built to survive file transmission. Text, voice, 3D voxel meshes, and facial capture in one picture. | `v1.0.0` |
+| <img src="assets/icons/lumicode.png" width="46"> | **[LumiCode](https://lumicode.quiettools.dev)**<br>The same concept, lossier and phone-scannable; three encoders on one page, data hidden in chroma, in colour dots, or in the grain. | `v1.0.0` |
+| <img src="assets/icons/ditherglyph.png" width="46"> | **[DitherGlyph](https://ditherglyph.quiettools.dev)**<br>High-resolution dither encoding; the payload lives in the dithered areas of the photograph itself. About 0.3 bits per pixel. | `v1.0.0` |
+| <img src="assets/icons/ditherglyph-lite.png" width="46"> | **[DitherCode](https://ditherglyph-lite.quiettools.dev)**<br>Low-resolution dither encoding, phone-scannable; chunky glyph cells a camera reads across a room. | `v1.0.0` |
 | <img src="assets/icons/geode.png" width="46"> | **[Geode](https://geode.gnatgpt.app)**<br>A non-euclidean file explorer; folders are geodesic spheres you fly through, with a space-invaders mode. 20+ forks. | `v1.0.0` |
 | <img src="assets/icons/framewalk.png" width="46"> | **[FrameWalk](https://framewalk.rlhuguenin.com)**<br>Blueprint in, walkable 3D interior out. Auto-trace a floor plan, then tour it in first person. Codeveloped with Ryan Huguenin. | `live` |
 
